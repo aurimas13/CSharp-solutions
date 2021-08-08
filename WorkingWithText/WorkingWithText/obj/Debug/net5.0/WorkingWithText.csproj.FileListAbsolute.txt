@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/bin/Debug/net5.0/WorkingWithText.deps.json
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/bin/Debug/net5.0/WorkingWithText.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/bin/Debug/net5.0/WorkingWithText.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/bin/Debug/net5.0/WorkingWithText.dll
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/bin/Debug/net5.0/ref/WorkingWithText.dll
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/bin/Debug/net5.0/WorkingWithText.pdb
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/obj/Debug/net5.0/WorkingWithText.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/obj/Debug/net5.0/WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/obj/Debug/net5.0/WorkingWithText.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/obj/Debug/net5.0/WorkingWithText.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/obj/Debug/net5.0/WorkingWithText.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/obj/Debug/net5.0/WorkingWithText.dll
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/obj/Debug/net5.0/ref/WorkingWithText.dll
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/obj/Debug/net5.0/WorkingWithText.pdb
+/Users/Aurimas/Documents/dotnet/WorkingWithText/WorkingWithText/obj/Debug/net5.0/WorkingWithText.genruntimeconfig.cache
