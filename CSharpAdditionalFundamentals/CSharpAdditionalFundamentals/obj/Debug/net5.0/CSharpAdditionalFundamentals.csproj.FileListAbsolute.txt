@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/obj/Debug/net5.0/CSharpAdditionalFundamentals.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/obj/Debug/net5.0/CSharpAdditionalFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/obj/Debug/net5.0/CSharpAdditionalFundamentals.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/obj/Debug/net5.0/CSharpAdditionalFundamentals.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/obj/Debug/net5.0/CSharpAdditionalFundamentals.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/bin/Debug/net5.0/CSharpAdditionalFundamentals.deps.json
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/bin/Debug/net5.0/CSharpAdditionalFundamentals.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/bin/Debug/net5.0/CSharpAdditionalFundamentals.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/bin/Debug/net5.0/CSharpAdditionalFundamentals.dll
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/bin/Debug/net5.0/ref/CSharpAdditionalFundamentals.dll
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/bin/Debug/net5.0/CSharpAdditionalFundamentals.pdb
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/obj/Debug/net5.0/CSharpAdditionalFundamentals.dll
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/obj/Debug/net5.0/ref/CSharpAdditionalFundamentals.dll
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/obj/Debug/net5.0/CSharpAdditionalFundamentals.pdb
+/Users/Aurimas/Documents/dotnet/CSharpAdditionalFundamentals/CSharpAdditionalFundamentals/obj/Debug/net5.0/CSharpAdditionalFundamentals.genruntimeconfig.cache

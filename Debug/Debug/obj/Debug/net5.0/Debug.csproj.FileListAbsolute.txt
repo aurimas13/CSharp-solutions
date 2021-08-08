@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/Debug/Debug/bin/Debug/net5.0/Debug.deps.json
+/Users/Aurimas/Documents/dotnet/Debug/Debug/bin/Debug/net5.0/Debug.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/Debug/Debug/bin/Debug/net5.0/Debug.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/Debug/Debug/bin/Debug/net5.0/Debug.dll
+/Users/Aurimas/Documents/dotnet/Debug/Debug/bin/Debug/net5.0/ref/Debug.dll
+/Users/Aurimas/Documents/dotnet/Debug/Debug/bin/Debug/net5.0/Debug.pdb
+/Users/Aurimas/Documents/dotnet/Debug/Debug/obj/Debug/net5.0/Debug.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/Debug/Debug/obj/Debug/net5.0/Debug.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/Debug/Debug/obj/Debug/net5.0/Debug.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/Debug/Debug/obj/Debug/net5.0/Debug.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/Debug/Debug/obj/Debug/net5.0/Debug.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/Debug/Debug/obj/Debug/net5.0/Debug.dll
+/Users/Aurimas/Documents/dotnet/Debug/Debug/obj/Debug/net5.0/ref/Debug.dll
+/Users/Aurimas/Documents/dotnet/Debug/Debug/obj/Debug/net5.0/Debug.pdb
+/Users/Aurimas/Documents/dotnet/Debug/Debug/obj/Debug/net5.0/Debug.genruntimeconfig.cache
