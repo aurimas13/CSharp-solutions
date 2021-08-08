@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/bin/Debug/net5.0/ProceduralProgramming.deps.json
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/bin/Debug/net5.0/ProceduralProgramming.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/bin/Debug/net5.0/ProceduralProgramming.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/bin/Debug/net5.0/ProceduralProgramming.dll
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/bin/Debug/net5.0/ref/ProceduralProgramming.dll
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/bin/Debug/net5.0/ProceduralProgramming.pdb
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.dll
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/obj/Debug/net5.0/ref/ProceduralProgramming.dll
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.pdb
+/Users/Aurimas/Documents/dotnet/ProceduralProgramming/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.genruntimeconfig.cache

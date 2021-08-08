@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/Operators/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/Aurimas/Documents/dotnet/Operators/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/Operators/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/Operators/Operators/bin/Debug/net5.0/Operators.dll
+/Users/Aurimas/Documents/dotnet/Operators/Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/Aurimas/Documents/dotnet/Operators/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/Aurimas/Documents/dotnet/Operators/Operators/obj/Debug/net5.0/Operators.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/Operators/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/Operators/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/Operators/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/Operators/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/Operators/Operators/obj/Debug/net5.0/Operators.dll
+/Users/Aurimas/Documents/dotnet/Operators/Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/Aurimas/Documents/dotnet/Operators/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/Aurimas/Documents/dotnet/Operators/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache

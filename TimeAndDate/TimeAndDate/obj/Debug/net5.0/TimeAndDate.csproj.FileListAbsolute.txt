@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/bin/Debug/net5.0/TimeAndDate.deps.json
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/bin/Debug/net5.0/TimeAndDate.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/bin/Debug/net5.0/TimeAndDate.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/bin/Debug/net5.0/TimeAndDate.dll
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/bin/Debug/net5.0/ref/TimeAndDate.dll
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/bin/Debug/net5.0/TimeAndDate.pdb
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/obj/Debug/net5.0/TimeAndDate.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/obj/Debug/net5.0/TimeAndDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/obj/Debug/net5.0/TimeAndDate.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/obj/Debug/net5.0/TimeAndDate.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/obj/Debug/net5.0/TimeAndDate.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/obj/Debug/net5.0/TimeAndDate.dll
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/obj/Debug/net5.0/ref/TimeAndDate.dll
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/obj/Debug/net5.0/TimeAndDate.pdb
+/Users/Aurimas/Documents/dotnet/TimeAndDate/TimeAndDate/obj/Debug/net5.0/TimeAndDate.genruntimeconfig.cache
