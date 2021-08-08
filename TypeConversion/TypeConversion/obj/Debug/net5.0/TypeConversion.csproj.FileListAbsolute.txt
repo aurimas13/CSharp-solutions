@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/bin/Debug/net5.0/TypeConversion.deps.json
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/bin/Debug/net5.0/TypeConversion.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/bin/Debug/net5.0/TypeConversion.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/bin/Debug/net5.0/TypeConversion.dll
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/bin/Debug/net5.0/ref/TypeConversion.dll
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/bin/Debug/net5.0/TypeConversion.pdb
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.dll
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/obj/Debug/net5.0/ref/TypeConversion.dll
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.pdb
+/Users/Aurimas/Documents/dotnet/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.genruntimeconfig.cache

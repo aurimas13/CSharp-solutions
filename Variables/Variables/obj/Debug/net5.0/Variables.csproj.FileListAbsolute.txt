@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/Variables/Variables/bin/Debug/net5.0/Variables.deps.json
+/Users/Aurimas/Documents/dotnet/Variables/Variables/bin/Debug/net5.0/Variables.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/Variables/Variables/bin/Debug/net5.0/Variables.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/Variables/Variables/bin/Debug/net5.0/Variables.dll
+/Users/Aurimas/Documents/dotnet/Variables/Variables/bin/Debug/net5.0/ref/Variables.dll
+/Users/Aurimas/Documents/dotnet/Variables/Variables/bin/Debug/net5.0/Variables.pdb
+/Users/Aurimas/Documents/dotnet/Variables/Variables/obj/Debug/net5.0/Variables.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/Variables/Variables/obj/Debug/net5.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/Variables/Variables/obj/Debug/net5.0/Variables.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/Variables/Variables/obj/Debug/net5.0/Variables.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/Variables/Variables/obj/Debug/net5.0/Variables.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/Variables/Variables/obj/Debug/net5.0/Variables.dll
+/Users/Aurimas/Documents/dotnet/Variables/Variables/obj/Debug/net5.0/ref/Variables.dll
+/Users/Aurimas/Documents/dotnet/Variables/Variables/obj/Debug/net5.0/Variables.pdb
+/Users/Aurimas/Documents/dotnet/Variables/Variables/obj/Debug/net5.0/Variables.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Aurimas/.dotnet/store/|arch|/|tfm|",
+      "/Users/Aurimas/.nuget/packages"
+    ]
+  }
+}
