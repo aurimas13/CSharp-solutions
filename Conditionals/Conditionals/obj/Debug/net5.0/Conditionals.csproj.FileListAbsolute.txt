@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/bin/Debug/net5.0/Conditionals.deps.json
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/bin/Debug/net5.0/Conditionals.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/bin/Debug/net5.0/Conditionals.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/bin/Debug/net5.0/Conditionals.dll
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/bin/Debug/net5.0/ref/Conditionals.dll
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/bin/Debug/net5.0/Conditionals.pdb
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/obj/Debug/net5.0/Conditionals.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/obj/Debug/net5.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/obj/Debug/net5.0/Conditionals.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/obj/Debug/net5.0/Conditionals.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/obj/Debug/net5.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/obj/Debug/net5.0/Conditionals.dll
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/obj/Debug/net5.0/ref/Conditionals.dll
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/obj/Debug/net5.0/Conditionals.pdb
+/Users/Aurimas/Documents/dotnet/Conditionals/Conditionals/obj/Debug/net5.0/Conditionals.genruntimeconfig.cache

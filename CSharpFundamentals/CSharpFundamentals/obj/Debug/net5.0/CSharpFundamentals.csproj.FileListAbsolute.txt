@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.deps.json
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.dll
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/ref/CSharpFundamentals.dll
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.pdb
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.dll
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/ref/CSharpFundamentals.dll
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.pdb
+/Users/Aurimas/Documents/dotnet/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.genruntimeconfig.cache

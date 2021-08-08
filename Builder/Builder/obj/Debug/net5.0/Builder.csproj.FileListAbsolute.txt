@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/dotnet/Builder/Builder/bin/Debug/net5.0/Builder.deps.json
+/Users/Aurimas/Documents/dotnet/Builder/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/Users/Aurimas/Documents/dotnet/Builder/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/Users/Aurimas/Documents/dotnet/Builder/Builder/bin/Debug/net5.0/Builder.dll
+/Users/Aurimas/Documents/dotnet/Builder/Builder/bin/Debug/net5.0/ref/Builder.dll
+/Users/Aurimas/Documents/dotnet/Builder/Builder/bin/Debug/net5.0/Builder.pdb
+/Users/Aurimas/Documents/dotnet/Builder/Builder/obj/Debug/net5.0/Builder.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/dotnet/Builder/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/dotnet/Builder/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/dotnet/Builder/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/Users/Aurimas/Documents/dotnet/Builder/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/dotnet/Builder/Builder/obj/Debug/net5.0/Builder.dll
+/Users/Aurimas/Documents/dotnet/Builder/Builder/obj/Debug/net5.0/ref/Builder.dll
+/Users/Aurimas/Documents/dotnet/Builder/Builder/obj/Debug/net5.0/Builder.pdb
+/Users/Aurimas/Documents/dotnet/Builder/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache
