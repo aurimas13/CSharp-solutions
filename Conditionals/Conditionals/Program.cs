@@ -1,4 +1,7 @@
-﻿using System;
+// Created by Aurimas A. Nausedas on 08/08/21.
+// Updated by Aurimas A. Nausedas on 11/08/21.
+
+using System;
 using static Conditionals.Season;
 
 namespace Conditionals
