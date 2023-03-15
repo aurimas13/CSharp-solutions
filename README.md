@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="300px" src="https://github.com/aurimas13/CSharp-solutions/blob/main/Public/Images/csharp.jpg"/>
+  <img height="300px" src="https://github.com/aurimas13/CSharp-solutions/blob/main/Public/Images/c_sharp.jpg"/>
 </p>
 
 <p align="center" > <b>Solutions to C# problems </b> </p>
